@@ -4,3 +4,9 @@
 [submodule "exam-grading/exam-grading/exams"]
 	path = exam-grading/exam-grading/exams
 	url = https://github.com/Zzzz-77/Test-repo.git
+[submodule "exam-grading/exam-grading/Test-repo"]
+	path = exam-grading/exam-grading/Test-repo
+	url = https://github.com/Zzzz-77/Test-repo.git
+[submodule "exam-grading/Test-repo"]
+	path = exam-grading/Test-repo
+	url = https://github.com/Zzzz-77/Test-repo.git
