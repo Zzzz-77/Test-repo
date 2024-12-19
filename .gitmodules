@@ -1,0 +1,3 @@
+[submodule "exam-grading/exams"]
+	path = exam-grading/exams
+	url = https://github.com/Zzzz-77/Test-repo.git
